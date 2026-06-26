@@ -1,0 +1,6 @@
+{
+  "name": "Minha Loja Virtual",
+  "description": "Uma vitrine virtual elegante com exibição interativa de produtos e carrinho de compras integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
